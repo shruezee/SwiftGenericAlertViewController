@@ -15,6 +15,6 @@ Pod::Spec.new do |spec|
   spec.source       = { :git => "https://github.com/shruezee/SwiftGenericAlertViewController.git", :tag => "#{spec.version}" }
   spec.source_files  = "SwiftGenericAlertViewController"
   spec.exclude_files = "Classes/Exclude"
-  s.swift_version = "5.2" 
+  spec.swift_version = "5.2" 
 
 end
