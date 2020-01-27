@@ -10,5 +10,5 @@ s.license      = 'MIT'
 s.platform     = :ios, '13.0'
 s.source       = { :git => 'https://github.com/shruezee/SwiftGenericAlertViewController.git', :tag => 'v1.0.2' }
 s.source_files  = 'GenericPopover/*.swift'
-
+s.swift_versions = '5.0'
 end
