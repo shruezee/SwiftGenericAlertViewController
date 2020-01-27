@@ -7,37 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		52370B1723DDB4C300E602EB /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52370B1323DDB4C300E602EB /* Utils.swift */; };
-		52370B1823DDB4C300E602EB /* png.png in Resources */ = {isa = PBXBuildFile; fileRef = 52370B1423DDB4C300E602EB /* png.png */; };
-		52370B1923DDB4C300E602EB /* PopOverSubClasses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52370B1523DDB4C300E602EB /* PopOverSubClasses.swift */; };
-		52370B1A23DDB4C300E602EB /* PopoverBaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52370B1623DDB4C300E602EB /* PopoverBaseViewController.swift */; };
-		52370B2423DDB4DF00E602EB /* Montserrat-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 52370B1C23DDB4DF00E602EB /* Montserrat-Bold.otf */; };
-		52370B2523DDB4DF00E602EB /* Montserrat-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 52370B1D23DDB4DF00E602EB /* Montserrat-Light.otf */; };
-		52370B2623DDB4DF00E602EB /* Montserrat-UltraLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = 52370B1E23DDB4DF00E602EB /* Montserrat-UltraLight.otf */; };
-		52370B2723DDB4DF00E602EB /* Montserrat-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 52370B1F23DDB4DF00E602EB /* Montserrat-Regular.otf */; };
-		52370B2823DDB4DF00E602EB /* Montserrat-ExtraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 52370B2023DDB4DF00E602EB /* Montserrat-ExtraBold.otf */; };
-		52370B2923DDB4DF00E602EB /* Montserrat-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 52370B2123DDB4DF00E602EB /* Montserrat-Black.otf */; };
-		52370B2A23DDB4DF00E602EB /* Montserrat-Hairline.otf in Resources */ = {isa = PBXBuildFile; fileRef = 52370B2223DDB4DF00E602EB /* Montserrat-Hairline.otf */; };
-		52370B2B23DDB4DF00E602EB /* Montserrat-SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 52370B2323DDB4DF00E602EB /* Montserrat-SemiBold.otf */; };
+		5211818A23DE607C00C174C2 /* PopoverBaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5211818723DE607C00C174C2 /* PopoverBaseViewController.swift */; };
+		5211818B23DE607C00C174C2 /* png.png in Resources */ = {isa = PBXBuildFile; fileRef = 5211818823DE607C00C174C2 /* png.png */; };
+		5211818C23DE607C00C174C2 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5211818923DE607C00C174C2 /* Utils.swift */; };
+		5211819823DE609700C174C2 /* Montserrat-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5211819023DE609700C174C2 /* Montserrat-Bold.otf */; };
+		5211819923DE609700C174C2 /* Montserrat-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5211819123DE609700C174C2 /* Montserrat-Light.otf */; };
+		5211819A23DE609700C174C2 /* Montserrat-UltraLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5211819223DE609700C174C2 /* Montserrat-UltraLight.otf */; };
+		5211819B23DE609700C174C2 /* Montserrat-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5211819323DE609700C174C2 /* Montserrat-Regular.otf */; };
+		5211819C23DE609700C174C2 /* Montserrat-ExtraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5211819423DE609700C174C2 /* Montserrat-ExtraBold.otf */; };
+		5211819D23DE609700C174C2 /* Montserrat-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5211819523DE609700C174C2 /* Montserrat-Black.otf */; };
+		5211819E23DE609700C174C2 /* Montserrat-Hairline.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5211819623DE609700C174C2 /* Montserrat-Hairline.otf */; };
+		5211819F23DE609700C174C2 /* Montserrat-SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5211819723DE609700C174C2 /* Montserrat-SemiBold.otf */; };
+		521181A123DE60BD00C174C2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 521181A023DE60BD00C174C2 /* Assets.xcassets */; };
 		52370B3423DDB83000E602EB /* PopOverSample.storyboard in Sources */ = {isa = PBXBuildFile; fileRef = 52370B1023DDB35300E602EB /* PopOverSample.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5211818723DE607C00C174C2 /* PopoverBaseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PopoverBaseViewController.swift; sourceTree = "<group>"; };
+		5211818823DE607C00C174C2 /* png.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = png.png; sourceTree = "<group>"; };
+		5211818923DE607C00C174C2 /* Utils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
+		5211819023DE609700C174C2 /* Montserrat-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Bold.otf"; sourceTree = "<group>"; };
+		5211819123DE609700C174C2 /* Montserrat-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Light.otf"; sourceTree = "<group>"; };
+		5211819223DE609700C174C2 /* Montserrat-UltraLight.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-UltraLight.otf"; sourceTree = "<group>"; };
+		5211819323DE609700C174C2 /* Montserrat-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Regular.otf"; sourceTree = "<group>"; };
+		5211819423DE609700C174C2 /* Montserrat-ExtraBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-ExtraBold.otf"; sourceTree = "<group>"; };
+		5211819523DE609700C174C2 /* Montserrat-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Black.otf"; sourceTree = "<group>"; };
+		5211819623DE609700C174C2 /* Montserrat-Hairline.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Hairline.otf"; sourceTree = "<group>"; };
+		5211819723DE609700C174C2 /* Montserrat-SemiBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-SemiBold.otf"; sourceTree = "<group>"; };
+		521181A023DE60BD00C174C2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		52370AE823DD99A500E602EB /* GenericPopover.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = GenericPopover.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		52370AEC23DD99A500E602EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		52370B1023DDB35300E602EB /* PopOverSample.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = PopOverSample.storyboard; sourceTree = "<group>"; };
-		52370B1323DDB4C300E602EB /* Utils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Utils.swift; path = PopOver/Utils.swift; sourceTree = SOURCE_ROOT; };
-		52370B1423DDB4C300E602EB /* png.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = png.png; path = PopOver/png.png; sourceTree = SOURCE_ROOT; };
-		52370B1523DDB4C300E602EB /* PopOverSubClasses.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PopOverSubClasses.swift; path = PopOver/PopOverSubClasses.swift; sourceTree = SOURCE_ROOT; };
-		52370B1623DDB4C300E602EB /* PopoverBaseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PopoverBaseViewController.swift; path = PopOver/PopoverBaseViewController.swift; sourceTree = SOURCE_ROOT; };
-		52370B1C23DDB4DF00E602EB /* Montserrat-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Bold.otf"; sourceTree = "<group>"; };
-		52370B1D23DDB4DF00E602EB /* Montserrat-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Light.otf"; sourceTree = "<group>"; };
-		52370B1E23DDB4DF00E602EB /* Montserrat-UltraLight.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-UltraLight.otf"; sourceTree = "<group>"; };
-		52370B1F23DDB4DF00E602EB /* Montserrat-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Regular.otf"; sourceTree = "<group>"; };
-		52370B2023DDB4DF00E602EB /* Montserrat-ExtraBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-ExtraBold.otf"; sourceTree = "<group>"; };
-		52370B2123DDB4DF00E602EB /* Montserrat-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Black.otf"; sourceTree = "<group>"; };
-		52370B2223DDB4DF00E602EB /* Montserrat-Hairline.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Hairline.otf"; sourceTree = "<group>"; };
-		52370B2323DDB4DF00E602EB /* Montserrat-SemiBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-SemiBold.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,9 +51,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5211818F23DE609700C174C2 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				5211819023DE609700C174C2 /* Montserrat-Bold.otf */,
+				5211819123DE609700C174C2 /* Montserrat-Light.otf */,
+				5211819223DE609700C174C2 /* Montserrat-UltraLight.otf */,
+				5211819323DE609700C174C2 /* Montserrat-Regular.otf */,
+				5211819423DE609700C174C2 /* Montserrat-ExtraBold.otf */,
+				5211819523DE609700C174C2 /* Montserrat-Black.otf */,
+				5211819623DE609700C174C2 /* Montserrat-Hairline.otf */,
+				5211819723DE609700C174C2 /* Montserrat-SemiBold.otf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
 		52370ADE23DD99A500E602EB = {
 			isa = PBXGroup;
 			children = (
+				521181A023DE60BD00C174C2 /* Assets.xcassets */,
 				52370AEA23DD99A500E602EB /* GenericPopover */,
 				52370AE923DD99A500E602EB /* Products */,
 			);
@@ -70,32 +86,15 @@
 		52370AEA23DD99A500E602EB /* GenericPopover */ = {
 			isa = PBXGroup;
 			children = (
+				5211818F23DE609700C174C2 /* Fonts */,
+				5211818823DE607C00C174C2 /* png.png */,
+				5211818723DE607C00C174C2 /* PopoverBaseViewController.swift */,
+				5211818923DE607C00C174C2 /* Utils.swift */,
 				52370B1023DDB35300E602EB /* PopOverSample.storyboard */,
-				52370B1B23DDB4DF00E602EB /* Fonts */,
-				52370B1423DDB4C300E602EB /* png.png */,
-				52370B1623DDB4C300E602EB /* PopoverBaseViewController.swift */,
-				52370B1523DDB4C300E602EB /* PopOverSubClasses.swift */,
-				52370B1323DDB4C300E602EB /* Utils.swift */,
 				52370AEC23DD99A500E602EB /* Info.plist */,
 			);
 			path = GenericPopover;
 			sourceTree = "<group>";
-		};
-		52370B1B23DDB4DF00E602EB /* Fonts */ = {
-			isa = PBXGroup;
-			children = (
-				52370B1C23DDB4DF00E602EB /* Montserrat-Bold.otf */,
-				52370B1D23DDB4DF00E602EB /* Montserrat-Light.otf */,
-				52370B1E23DDB4DF00E602EB /* Montserrat-UltraLight.otf */,
-				52370B1F23DDB4DF00E602EB /* Montserrat-Regular.otf */,
-				52370B2023DDB4DF00E602EB /* Montserrat-ExtraBold.otf */,
-				52370B2123DDB4DF00E602EB /* Montserrat-Black.otf */,
-				52370B2223DDB4DF00E602EB /* Montserrat-Hairline.otf */,
-				52370B2323DDB4DF00E602EB /* Montserrat-SemiBold.otf */,
-			);
-			name = Fonts;
-			path = PopOver/Fonts;
-			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
@@ -166,15 +165,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				52370B2823DDB4DF00E602EB /* Montserrat-ExtraBold.otf in Resources */,
-				52370B2623DDB4DF00E602EB /* Montserrat-UltraLight.otf in Resources */,
-				52370B1823DDB4C300E602EB /* png.png in Resources */,
-				52370B2B23DDB4DF00E602EB /* Montserrat-SemiBold.otf in Resources */,
-				52370B2423DDB4DF00E602EB /* Montserrat-Bold.otf in Resources */,
-				52370B2723DDB4DF00E602EB /* Montserrat-Regular.otf in Resources */,
-				52370B2523DDB4DF00E602EB /* Montserrat-Light.otf in Resources */,
-				52370B2A23DDB4DF00E602EB /* Montserrat-Hairline.otf in Resources */,
-				52370B2923DDB4DF00E602EB /* Montserrat-Black.otf in Resources */,
+				5211819C23DE609700C174C2 /* Montserrat-ExtraBold.otf in Resources */,
+				5211819A23DE609700C174C2 /* Montserrat-UltraLight.otf in Resources */,
+				5211818B23DE607C00C174C2 /* png.png in Resources */,
+				5211819F23DE609700C174C2 /* Montserrat-SemiBold.otf in Resources */,
+				521181A123DE60BD00C174C2 /* Assets.xcassets in Resources */,
+				5211819823DE609700C174C2 /* Montserrat-Bold.otf in Resources */,
+				5211819B23DE609700C174C2 /* Montserrat-Regular.otf in Resources */,
+				5211819923DE609700C174C2 /* Montserrat-Light.otf in Resources */,
+				5211819E23DE609700C174C2 /* Montserrat-Hairline.otf in Resources */,
+				5211819D23DE609700C174C2 /* Montserrat-Black.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -186,9 +186,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				52370B3423DDB83000E602EB /* PopOverSample.storyboard in Sources */,
-				52370B1723DDB4C300E602EB /* Utils.swift in Sources */,
-				52370B1923DDB4C300E602EB /* PopOverSubClasses.swift in Sources */,
-				52370B1A23DDB4C300E602EB /* PopoverBaseViewController.swift in Sources */,
+				5211818A23DE607C00C174C2 /* PopoverBaseViewController.swift in Sources */,
+				5211818C23DE607C00C174C2 /* Utils.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
