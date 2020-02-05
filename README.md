@@ -37,7 +37,7 @@ Giphy
 
 ## Author
 
-shruthi, ramakrishnaiahshruthi@gmail.com
+shruthi, shruthi.palchanar2@gmail.com
 
 ## License
 
