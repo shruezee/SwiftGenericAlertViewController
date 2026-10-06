@@ -1,44 +1,39 @@
-## SwiftGenericAlertViewController
-SwiftGenericAlertViewController is Library/Framework which have custom alert like view-controller with table/image/inputs subviews. This framework is to demonstrate  modular and reusable code
+# SwiftGenericAlertViewController
 
-## 
-**SwiftGenericAlertViewController** came to help create custom alert views as `UIAlertController` and personalize alert to match the application layout
+**A modular framework for custom alert-style view controllers** that hold a table, an image, or input fields, styled to match your app instead of the system `UIAlertController`.
 
-Use this as static library or clone and customise the example project in https://github.com/shruezee/GenericPopovers  
+<p>
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-5.0-orange?style=flat-square">
+  <img alt="UIKit" src="https://img.shields.io/badge/UIKit-framework-blue?style=flat-square">
+  <img alt="Built" src="https://img.shields.io/badge/Built-2020-lightgrey?style=flat-square">
+</p>
+
+<p>
+  <img src="https://user-images.githubusercontent.com/23718584/73805714-8e7b8d00-481b-11ea-83a9-77eb9cb9343c.png" width="200" alt="Alert with table content">
+  <img src="https://user-images.githubusercontent.com/23718584/73805757-aa7f2e80-481b-11ea-9f0d-42c0a0afe1eb.png" width="200" alt="Alert with image content">
+  <img src="https://user-images.githubusercontent.com/23718584/73805761-ac48f200-481b-11ea-8172-8aaf4fb7deb8.png" width="200" alt="Alert with input fields">
+</p>
+
+## What it demonstrates
+
+- Turning an app-level component ([GenericPopovers](https://github.com/shruezee/GenericPopovers)) into a **reusable, modular library**
+- One base alert view controller with interchangeable content: table, image, or text inputs
+- Theming hooks so alerts match the host app's colours and fonts
+- Packaging with CocoaPods podspecs for both a framework and a static-library variant
+
 ## Requirements
 
-- Xcode 10.0+
-- Swift 5.0+
+- Xcode 10 or later
+- Swift 5
 
 ## Installation
 
-### Pod
-**Work in progress**
-```TODO: Please wait for pod setup documentation to be completed untill then feel free to use manual option
-```
-### Manually
-
-This library is modularizing my initial GenericPopovers project shared in https://github.com/shruezee/GenericPopovers  
+Add the `GenericPopover` sources to your project manually, or use the included podspecs as a starting point for a private pod.
 
 ## Example
-![1](https://user-images.githubusercontent.com/23718584/73805714-8e7b8d00-481b-11ea-83a9-77eb9cb9343c.png)
-![2](https://user-images.githubusercontent.com/23718584/73805757-aa7f2e80-481b-11ea-9f0d-42c0a0afe1eb.png)
-![3](https://user-images.githubusercontent.com/23718584/73805761-ac48f200-481b-11ea-8172-8aaf4fb7deb8.png)
-![5](https://user-images.githubusercontent.com/23718584/73805841-e2867180-481b-11ea-8a2d-c647a546f2f5.png)
-![4](https://user-images.githubusercontent.com/23718584/73805805-c8e52a00-481b-11ea-8a92-bb638e8ea1c7.png)
 
-Giphy 
+Open `GenericPopover.xcodeproj` and run the example app on a simulator to see each alert type.
 
-![generic-popover-notransition](https://user-images.githubusercontent.com/23718584/48245298-37cbab80-e43e-11e8-9a71-5518b8ceec66.gif)
+---
 
-
-## Customize
-
-
-## Author
-
-shruthi, shruthi.palchanar2@gmail.com
-
-## License
-
-SwiftGenericAlertViewController is available under the MIT license. See the LICENSE file for more info.
+Built by **[Shruthi](https://github.com/shruezee)**, iOS developer in Sydney. See my latest apps: **[KindDose](https://github.com/shruezee/KindDose)** and **[MiniMingle Games](https://github.com/shruezee/MiniMingle-Games)**.
